@@ -1,1 +1,11 @@
-cosole.log(process.platform);
+var a=10;
+ a=20;
+
+ console.log(a)
+
+
+ function sp(){
+
+    console.log("in function");
+ }
+sp()
